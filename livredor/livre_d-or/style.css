@@ -1,0 +1,292 @@
+/* Graphique */
+body
+{
+font-family: Times, serif;
+margin: 5px auto 5px auto;
+background-color: #F1F1E9;
+color: #000000;
+}
+#GRAPHIQUE
+{
+width: 700px;
+margin: 0px auto 0px auto;
+border: 1px solid #FFC209;
+}
+
+/* Formulaire */
+#FORMULAIRE
+{
+text-align: center;
+margin: 0px auto 0px auto;
+border: 1px solid #CBC9BC;
+background-color: #FFFFFF;
+color: #000000;
+width: 70%;
+}
+.FORMULAIRE_dd
+{
+margin: 0px auto 0px auto;
+width: 350px;
+height: 25px;
+}
+#FORMULAIRE_dd_note
+{
+margin: 10px auto 0px auto;
+border-top: 1px solid #000000;
+border-bottom: 1px solid #000000;
+width: 350px;
+height: 40px;
+}
+#FORMULAIRE_dd_note span
+{
+margin-top: 10px;
+}
+#FORMULAIRE_dd_note_message
+{
+margin: 20px auto 0px auto;
+width: 350px;
+}
+.FORMULAIRE_dd_left
+{
+float: left;
+width: auto;
+}
+.FORMULAIRE_dd_right
+{
+float: right;
+width: auto;
+}
+.FORMULAIRE_option
+{
+background-color: inherit;
+color: #606060;
+}
+#FORMULAIRE_plus_moins
+{
+float: right;
+width: auto;
+margin-right: -2px;
+}
+#FORMULAIRE img
+{
+border: none;
+}
+#FORMULAIRE input
+{
+border: 1px solid #000000;
+}
+#FORMULAIRE textarea
+{
+width: 350px;
+border: 1px solid #000000;
+}
+#FORMULAIRE_titre
+{
+margin-bottom: 20px;
+font-size: 18px;
+border-bottom: 1px solid #CBC9BC;
+background-color: #D4D3C9;
+color: #000000;
+}
+#FORMULAIRE_infos
+{
+margin-bottom: 15px;
+}
+#FORMULAIRE_bouton input
+{
+border: 1px solid #000000;
+background-color: #F6F6F6;
+color: #000000;
+margin-bottom: 5px;
+}
+#FORMULAIRE_anti_robot
+{
+text-align: center;
+margin: 0px auto 10px auto;
+border: 1px solid #CBC9BC;
+background-color: #FFFFFF;
+color: #000000;
+width: 70%;
+}
+#FORMULAIRE_anti_robot img
+{
+border: 1px solid #000000;
+margin-top: 10px;
+}
+#FORMULAIRE_anti_robot input
+{
+border: 1px solid #000000;
+margin-bottom: 5px;
+}
+
+/* Corp */
+#CORP
+{
+text-align: center;
+background-color: #FFFFFF;
+color: #000000;
+}
+
+/* Titre d'en-tête */
+#ENTETE_titre
+{
+background-color: #FFFFFF;
+color: #000000;
+font-size: 30px;
+}
+
+/* Message d'en-tête */
+#ENTETE_message
+{
+background-color: #FFFFFF;
+color: #000000;
+font-size: 16px;
+margin: 10px auto 15px auto;
+text-align: justify;
+width: 90%;
+}
+#ENTETE_infos
+{
+text-align: center;
+}
+
+/* Liens */
+.LIEN
+{
+background-color: #FFFFFF;
+color: #000000;
+text-decoration: none;
+}
+.LIEN:hover
+{
+background-color: #FFFFFF;
+color: #353535;
+}
+
+/* Configuration de l'affichage des messages */
+#MESSAGE_nombre
+{
+font-size: 16px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.MESSAGE
+{
+text-align: left;
+margin: 20px auto 0px auto;
+background-color: #FFFFFF;
+color: #000000;
+border: 1px solid #FFC209;
+width: 90%;
+}
+.MESSAGE_entete
+{
+background-color: #FFCE09;
+color: #000000;
+border-bottom: 1px solid #FFC209;
+}
+.MESSAGE_entete div
+{
+text-align: left;
+margin: 0px 2px 0px 2px;
+}
+.MESSAGE_entete div span
+{
+width: 50px;
+text-align: right;
+float: right;
+}
+.MESSAGE_entete div span img
+{
+border: none;
+}
+.MESSAGE_corp
+{
+font-size: 17px;
+text-align: left;
+margin: 8px 2px 8px 2px;
+}
+.MESSAGE_webmaster
+{
+font-size: 17px;
+text-align: left;
+margin: 8px 2px 8px 2px;
+background-color: #FFFFFF;
+color: #353535;
+}
+.MESSAGE_pied
+{
+font-size: 15px;
+background-color: #FFDB1A;
+color: #000000;
+border-top: 1px solid #FFC209;
+}
+.MESSAGE_pied div
+{
+text-align: left;
+margin: 0px 2px 0px 2px;
+}
+.MESSAGE_pied div span
+{
+width: 100px;
+text-align: right;
+float: right;
+}
+.MESSAGE_separateur
+{
+font-size: 15px;
+text-align: center;
+margin-top: 20px;
+margin-bottom: 5px;
+}
+
+/* Moyenne */
+#moyenne
+{
+margin-top: 10px;
+margin-bottom: 30px;
+font-size: 14px;
+}
+
+/* Copyright */
+#copyright
+{
+margin-top: 30px;
+font-size: 13px;
+text-align: center;
+}
+
+/* Navigation */
+#navigation
+{
+width: 90%;
+font-size: 13px;
+background-color: #FFFFFF;
+color: #000000;
+margin: 10px auto 0px auto;
+}
+#navigation a
+{
+background-color: #FFFFFF;
+text-decoration: none;
+color: #000000;
+}
+#navigation em
+{
+font-size: 18px;
+}
+#navigation_td_1
+{
+text-align: left;
+width: 25%;
+}
+#navigation_td_2
+{
+text-align: center;
+width: 50%;
+}
+#navigation_td_3
+{
+text-align: right;
+width: 25%;
+}
