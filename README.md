@@ -16,4 +16,4 @@ Ce site permet aux visiteurs de s'amuser en suivant une histoire de SF au cours 
 
 Le jeu dans son ensemble a été pensé et conçu par moi-même, Enstryl, Boborto et Pita od Jabuka.
 
-Il a été codé par moi-même.
+Il a été codé par moi-même en PHP, JavaScript, HTML et CSS.
