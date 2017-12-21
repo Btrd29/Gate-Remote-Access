@@ -13,7 +13,7 @@ Ce site permet aux visiteurs de s'amuser en suivant une histoire de SF au cours 
 -------------
 Si vous n'avez pas encore tenté de résoudre les énigmes proposées sur le site par vous même, n'allez pas vous gâcher l'expérience en explorant le code source.
 
-Il a été mis à disposition de tous afin que les personnes ayant terminé le jeu et souhaitant comprendre la façon dont le site a été codé.
+Il a été mis à disposition de tous pour les personnes ayant terminé le jeu et souhaitant comprendre la façon dont le site a été codé.
 
 ----------
 Crédit
